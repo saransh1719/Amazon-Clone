@@ -1,3 +1,4 @@
 # Amazon-Clone
 Basic Amazon Clone
-author- Saransh pare
+<br>
+Author- Saransh pare
